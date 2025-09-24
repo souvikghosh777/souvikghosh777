@@ -2,7 +2,7 @@
   
 # 👋 Hi there! I'm **Souvik Ghosh**
 
-<img src="https://readme-typing-svg.deb.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenteidth=600&lines=Passionate+Fullstack+Developer;AI%2FML+Enthusiast;Cybersecurity+Explorer;Infosys+Global+Hackathon+Finalist;Problem+Solver+%26+Innovator" alt="Typing SVG" />
+<img src="https://readme-typing-svg.deb.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&th=600&lines=Passionate+Fullstack+Developer;AI%2FML+Enthusiast;Cybersecurity+Explorer;Infosys+Global+Hackathon+Finalist;Problem+Solver+%26+Innovator" alt="Typing SVG" />
 
 ### 🚀 **Passionate Fullstack Developer from India** 🇮🇳
 ### 🏆 **Infosys Global Hackathon Finalist** 🌟
@@ -190,40 +190,9 @@
 - ⚖️ Professional interests: Strategic planning, team leadership, and driving technological innovation
 
 ---
-
-## 🎯 Current Focus
-
 <div align="center">
 
-### � **Tech Stack & Current Focus**
 
-**💻 Languages & Frontend:**
-<p>
-  <img src="https://skillicons.dev/icons?i=js,python,ts,java,cpp,react,nextjs,bootstrap,tailwind&perline=9" height="60"/>
-</p>
-
-**⚙️ Backend, Database & DevOps:**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,spring,mongodb,mysql,postgresql,docker,aws,azure,git,vscode&perline=13" height="60"/>
-</p>
-
-**🎯 Learning:** AI/ML • Cybersecurity • Cloud Computing
-
-### 🎯 **Future Goals**
-<table align="center">
-<tr>
-<td align="center" width="300">
-<img src="https://img.icons8.com/color/64/000000/github.png"/>
-<br><strong>Open Source Contributions</strong>
-<br><em>Major projects & communities</em>
-</td>
-<td align="center" width="300">
-<img src="https://img.icons8.com/color/64/000000/rocket.png"/>
-<br><strong>AI-Powered Applications</strong>
-<br><em>Innovative tech solutions</em>
-</td>
-</tr>
-</table>
 
 </div>
 
