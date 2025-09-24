@@ -86,7 +86,7 @@
 
 ### 💻 **Technologies & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,mongodb,docker,aws,git,linux&perline=9" height="60"/>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,mongodb,docker,aws,git,linux&perline=9" height="70"/>
 </p>
 
 </div>
@@ -99,14 +99,14 @@
 
 <div align="center">
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=souvikghosh777&show_icons=true&count_private=true&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&bg_color=0d1117" alt="Souvik's GitHub Stats" />
+<img width="49%" height="155px" src="https://github-readme-stats.vercel.app/api?username=souvikghosh777&show_icons=true&count_private=true&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&bg_color=0d1117" alt="Souvik's GitHub Stats" />
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souvikghosh777&layout=compact&hide_border=true&title_color=00b4d8&text_color=c9d1d9&bg_color=0d1117" />
+<img width="49%" height="155px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souvikghosh777&layout=compact&hide_border=true&title_color=00b4d8&text_color=c9d1d9&bg_color=0d1117" />
 
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=souvikghosh777&theme=tokyonight&hide_border=true&stroke=0000&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8" alt="GitHub Streak" />
+  <img width="90%" height="135px" src="https://github-readme-streak-stats.herokuapp.com/?user=souvikghosh777&theme=tokyonight&hide_border=true&stroke=0000&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8" alt="GitHub Streak" />
 </div>
 
 ---
