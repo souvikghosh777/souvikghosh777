@@ -2,7 +2,7 @@
   
 # 👋 Hi there! I'm **Souvik Ghosh**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenteidth=600&lines=Passionate+Fullstack+Developer;AI%2FML+Enthusiast;Cybersecurity+Explorer;Infosys+Global+Hackathon+Finalist;Problem+Solver+%26+Innovator" alt="Typing SVG" />
+<img src="https://readme-typing-svg.deb.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenteidth=600&lines=Passionate+Fullstack+Developer;AI%2FML+Enthusiast;Cybersecurity+Explorer;Infosys+Global+Hackathon+Finalist;Problem+Solver+%26+Innovator" alt="Typing SVG" />
 
 ### 🚀 **Passionate Fullstack Developer from India** 🇮🇳
 ### 🏆 **Infosys Global Hackathon Finalist** 🌟
@@ -84,25 +84,22 @@
 
 <div align="center">
 
-### 💻 **Programming Languages**
+### 💻 **Programming & Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,c,php,go" alt="Programming Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,c,react,nextjs,html,css,tailwind,bootstrap&perline=12" height="60"/>
 </p>
 
-### 🎨 **Frontend Development**
+### ⚙️ **Backend & Database**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" alt="Frontend"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,graphql,firebase,mongodb,mysql,postgresql,aws,gcp&perline=12" height="60"/>
 </p>
 
-### ⚙️ **Backend Development**
+### 🛠️ **DevOps & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,graphql,firebase" alt="Backend"/>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,figma,linux,php,go&perline=9" height="60"/>
 </p>
 
-### 🗄️ **Databases & Cloud**
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,aws,gcp,docker" alt="Database & Cloud"/>
-</p>
+
 
 ### �️ **Tools & DevOps**
 <p>
