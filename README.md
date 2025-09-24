@@ -190,17 +190,12 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 
 <br><br>
-
 **Thanks for visiting my profile! Let's build something amazing together! 🚀**
 
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="30%">
 
 <br>
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=souvikghosh777.souvikghosh777&left_color=6366f1&right_color=8b5cf6&left_text=Profile%20Views)
-
 <br>
-
 ### ⭐ **Star this repository if you find it helpful!** ⭐
-
 </div>
