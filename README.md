@@ -2,9 +2,7 @@
   
 # 👋 Hi there! I'm **Souvik Ghosh**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Passionate+Ful```
-
----oper;AI%2FML+Enthusiast;Cybersecurity+Explorer;Infosys+Global+Hackathon+Finalist;Problem+Solver+%26+Innovator" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Passionate+Fullstack+Developer;AI%2FML+Enthusiast;Cybersecurity+Explorer;Infosys+Global+Hackathon+Finalist;Problem+Solver+%26+Innovator" alt="Typing SVG" />
 
 ### 🚀 **Passionate Fullstack Developer from India** 🇮🇳
 ### 🏆 **Infosys Global Hackathon Finalist** 🌟
