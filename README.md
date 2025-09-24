@@ -53,24 +53,22 @@
 
 <table>
 <tr>
-<td align="center" width="200">
+<td align="center" width="250">
 <img src="https://img.icons8.com/nolan/64/artificial-intelligence.png"/>
 <br><strong>🤖 AI/ML Models</strong>
 <br><em>Neural Networks & Deep Learning</em>
 </td>
-<td align="center" width="200">
+<td align="center" width="250">
 <img src="https://img.icons8.com/color/64/000000/security-checked.png"/>
 <br><strong>🛡️ Cybersecurity</strong>
 <br><em>Ethical Hacking & Security Protocols</em>
 </td>
-</tr>
-<tr>
-<td align="center" width="200">
+<td align="center" width="250">
 <img src="https://img.icons8.com/nolan/64/combo-chart.png"/>
 <br><strong>📊 Data Science</strong>
 <br><em>Analytics & Visualization</em>
 </td>
-<td align="center" width="200">
+<td align="center" width="250">
 <img src="https://img.icons8.com/nolan/64/cloud.png"/>
 <br><strong>☁️ Cloud Technologies</strong>
 <br><em>AWS, Azure & DevOps</em>
