@@ -135,30 +135,6 @@
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=souvikghosh777&theme=tokyonight&hide_border=true&stroke=0000&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8" alt="GitHub Streak" />
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=souvikghosh777&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</div>
-
-<br>
-
-<div align="center">
-  
-### 📊 **Weekly Development Breakdown**
-
-<!--START_SECTION:waka-->
-```text
-JavaScript   8 hrs 15 mins   ████████████░░░░░░░░░░░░░   48.2%
-Python       4 hrs 30 mins   ██████░░░░░░░░░░░░░░░░░░░   26.3%
-TypeScript   2 hrs 45 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.1%
-CSS          1 hr 20 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   7.8%
-JSON         15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   1.6%
-```
-<!--END_SECTION:waka-->
-
-</div>
-
 ---
 
 ## 🤝 **Connect with Me**
