@@ -8,7 +8,7 @@
 ### 🏆 **Infosys Global Hackathon Finalist** 🌟
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=souvikghosh777&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=souvikghosh777&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/souvikghosh777?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers"/>
   <img src="https://img.shields.io/github/stars/souvikghosh777?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars"/>
 </p>
@@ -196,7 +196,7 @@
 
 <br>
 
-<img src="https://visitcount.itsvg.in/api?id=souvikghosh777&label=Profile%20Views&color=12&icon=0&pretty=true" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=souvikghosh777&label=PROFILE+VIEWS&style=flat-square&color=brightgreen" alt="Profile Views"/>
 
 <br>
 ### ⭐ **Star this repository if you find it helpful!** ⭐
