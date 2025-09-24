@@ -86,16 +86,12 @@
 
 ### 💻 **Technologies & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,mongodb,docker,aws,git,linux&perline=9" height="60"/>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,mongodb,docker,aws,git,linux&perline=9" height="60"/>
 </p>
 
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&lineCount=3&theme=github_dark&bg=0D1117&badge=0969DA&border=21262D&titleColor=C9D1D9&line1=python%2Cpython%2C3776AB%3Bjavascript%2Cjavascript%2CF7DF1E%3Breact%2Creact%2C61DAFB%3B&line2=nodejs%2Cnode.js%2C339933%3Bmongodb%2Cmongodb%2C47A248%3Bdocker%2Cdocker%2C2496ED%3B&line3=aws%2Caws%2CFF9900%3Bgit%2Cgit%2CF05032%3Blinux%2Clinux%2CFCC624%3B" alt="Tech Stack" />
-</div>
 
 ---
 
