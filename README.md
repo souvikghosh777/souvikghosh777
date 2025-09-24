@@ -2,7 +2,7 @@
   
 # 👋 Hi there! I'm **Souvik Ghosh**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Passionate+Fullstack+Developer;AI%2FML+Enthusiast;Cybersecurity+Explorer;Infosys+Global+Hackathon+Finalist;Problem+Solver+%26+Innovator" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenteidth=600&lines=Passionate+Fullstack+Developer;AI%2FML+Enthusiast;Cybersecurity+Explorer;Infosys+Global+Hackathon+Finalist;Problem+Solver+%26+Innovator" alt="Typing SVG" />
 
 ### 🚀 **Passionate Fullstack Developer from India** 🇮🇳
 ### 🏆 **Infosys Global Hackathon Finalist** 🌟
@@ -186,48 +186,9 @@
 
 ---
 
-## 💼 **About Me & What I Do**
 
-<div align="center">
 
-<img align="right" alt="Professional" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-</div>
-
-```yaml
-name: Souvik Ghosh
-located_in: India
-profession: Technology Consultant & Solution Architect
-education:
-  [
-    "Computer Science Graduate",
-    "AI/ML Specialist Certification",
-    "Cybersecurity Professional"
-  ]
-work_experience: "Enterprise Solutions & Digital Transformation"
-
-professional_focus:
-  [
-    "Digital Strategy & Innovation",
-    "Technology Consulting",
-    "System Architecture Design",
-    "AI/ML Implementation",
-    "Cybersecurity Solutions"
-  ]
-  
-industry_expertise:
-  [
-    "Enterprise Software Solutions",
-    "Digital Transformation Projects",
-    "Technology Risk Assessment",
-    "Business Process Automation",
-    "Strategic Technology Planning"
-  ]
-  
-current_projects: ["AI-Powered Business Solutions", "Cybersecurity Frameworks", "Cloud Migration Strategies"]
-professional_goals: ["Lead Digital Innovation Teams", "Establish Tech Consulting Firm", "Mentor Next-Gen Professionals"]
-interests: ["Strategic Planning", "Team Leadership", "Innovation Management", "Industry Networking"]
-```
 
 ### 🎯 **Professional Highlights**
 - � Currently leading **enterprise digital transformation** and **AI strategy consulting**
