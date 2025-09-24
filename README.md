@@ -86,24 +86,17 @@
 
 ### 💻 **Programming & Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,c,react,nextjs,html,css,tailwind,bootstrap&perline=12" height="60"/>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,c,react,nextjs,html,css,tailwind,bootstrap&perline=12" height="50"/>
 </p>
 
 ### ⚙️ **Backend & Database**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,graphql,firebase,mongodb,mysql,postgresql,aws,gcp&perline=12" height="60"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,firebase,mongodb,mysql,postgresql,aws,gcp&perline=12" height="50"/>
 </p>
 
 ### 🛠️ **DevOps & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,figma,linux,php,go&perline=9" height="60"/>
-</p>
-
-
-
-### �️ **Tools & DevOps**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux" alt="Tools & DevOps"/>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,figma,linux,php,go&perline=9" height="50"/>
 </p>
 
 </div>
