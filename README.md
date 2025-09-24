@@ -190,52 +190,53 @@
 
 <div align="center">
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Professional" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 </div>
 
 ```yaml
 name: Souvik Ghosh
 located_in: India
-current_job: Fullstack Developer
+profession: Technology Consultant & Solution Architect
 education:
   [
-    "Self-Taught Developer",
-    "AI/ML Enthusiast",
-    "Cybersecurity Explorer"
+    "Computer Science Graduate",
+    "AI/ML Specialist Certification",
+    "Cybersecurity Professional"
   ]
-company: Freelance & Open Source
+work_experience: "Enterprise Solutions & Digital Transformation"
 
-fields_of_interests:
+professional_focus:
   [
-    "Web Development",
-    "Machine Learning",
-    "Cybersecurity",
-    "Mobile Development",
-    "DevOps & Cloud"
+    "Digital Strategy & Innovation",
+    "Technology Consulting",
+    "System Architecture Design",
+    "AI/ML Implementation",
+    "Cybersecurity Solutions"
   ]
   
-technical_background:
+industry_expertise:
   [
-    "Fullstack Web Development",
-    "AI/ML Model Development", 
-    "Database Design & Management",
-    "Cloud Architecture & Deployment"
+    "Enterprise Software Solutions",
+    "Digital Transformation Projects",
+    "Technology Risk Assessment",
+    "Business Process Automation",
+    "Strategic Technology Planning"
   ]
   
-currently_learning: ["Advanced ML Algorithms", "Cloud Security", "Blockchain"]
-2024_goals: ["Contribute to Major Open Source", "Build AI-Powered SaaS", "Master Cloud Architecture"]
-hobbies: ["Gaming", "Reading Tech Blogs", "Contributing to OSS", "Problem Solving"]
+current_projects: ["AI-Powered Business Solutions", "Cybersecurity Frameworks", "Cloud Migration Strategies"]
+professional_goals: ["Lead Digital Innovation Teams", "Establish Tech Consulting Firm", "Mentor Next-Gen Professionals"]
+interests: ["Strategic Planning", "Team Leadership", "Innovation Management", "Industry Networking"]
 ```
 
-### 🎯 **Quick Facts**
-- 🔭 Currently working on **AI/ML projects** and **cybersecurity tools**
-- 🌱 Learning **advanced machine learning algorithms** and **cloud security**
-- 👯 Looking to collaborate on **open source projects** and **innovative web applications**
-- 💬 Ask me about **fullstack development**, **Python**, **JavaScript**, or **cybersecurity**
-- 📫 Reach me at: **souvikg9474@gmail.com**
-- ⚡ Fun fact: I love solving complex algorithms and contributing to the developer community!
-- 🎮 When not coding: Gaming, Reading, or Exploring new technologies
+### 🎯 **Professional Highlights**
+- � Currently leading **enterprise digital transformation** and **AI strategy consulting**
+- 📈 Specializing in **business process optimization** and **technology risk management**
+- 🤝 Seeking partnerships in **strategic technology initiatives** and **innovation projects**
+- � Expertise in **digital strategy**, **system architecture**, **AI implementation**, and **cybersecurity frameworks**
+- � Professional contact: **souvikg9474@gmail.com**
+- 🏆 Achievement: **Infosys Global Hackathon Finalist** - recognized for innovative technology solutions
+- ⚖️ Professional interests: Strategic planning, team leadership, and driving technological innovation
 
 ---
 
