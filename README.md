@@ -80,23 +80,13 @@
 
 ---
 
-## 🛠️ **Tech Stack & Tools**
+## 🛠️ **Tech Stack**
 
 <div align="center">
 
-### 💻 **Programming & Frontend**
+### 💻 **Technologies & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,c,react,nextjs,html,css,tailwind,bootstrap&perline=12" height="50"/>
-</p>
-
-### ⚙️ **Backend & Database**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,firebase,mongodb,mysql,postgresql,aws,gcp&perline=12" height="50"/>
-</p>
-
-### 🛠️ **DevOps & Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,figma,linux,php,go&perline=9" height="50"/>
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,mongodb,docker,aws,git,linux&perline=9" height="60"/>
 </p>
 
 </div>
