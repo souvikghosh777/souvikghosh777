@@ -195,7 +195,9 @@
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="30%">
 
 <br>
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=souvikghosh777.souvikghosh777&left_color=6366f1&right_color=8b5cf6&left_text=Profile%20Views)
+
+<img src="https://visitcount.itsvg.in/api?id=souvikghosh777&label=Profile%20Views&color=12&icon=0&pretty=true" alt="Profile Views" />
+
 <br>
 ### ⭐ **Star this repository if you find it helpful!** ⭐
 </div>
