@@ -104,7 +104,7 @@
 </div>
 
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=souvikghosh777&theme=tokyonight&hide_border=true&stroke=0000&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8" alt="GitHub Streak" />
+  <img width="70%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=souvikghosh777&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
 ---
