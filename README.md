@@ -84,7 +84,7 @@
 
 ### 💻 **Technologies & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,mongodb,docker,aws,git,linux&perline=9" height="70"/>
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,mongodb,docker,aws,git,linux&perline=9" height="70"/>
 </p>
 
 </div>
