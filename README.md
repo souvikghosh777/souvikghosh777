@@ -7,7 +7,8 @@
 ### 🚀 **Passionate Fullstack Developer from India** 🇮🇳
 <p>
   <img src="https://komarev.com/ghpvc/?username=souvikghosh777&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/souvikghosh777?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/followers/souvikghosh777?label=GitHub+Followers&style=for-the-badge&color=blue&logo=github" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/badge/Instagram-350+-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Followers"/>
   <img src="https://img.shields.io/github/stars/souvikghosh777?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars"/>
 </p>
 
@@ -84,7 +85,7 @@
 
 ### 💻 **Technologies & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,mongodb,docker,aws,git,linux&perline=9" height="70"/>
+  <img src="https://skillicons.dev/icons?i=python,java, js,html,css,react,nodejs,mongodb,docker,aws,git,linux&perline=9" height="70"/>
 </p>
 
 </div>
