@@ -162,7 +162,7 @@
 <h3>📱 <strong>Let's Connect & Build Something Amazing Together!</strong></h3>
 <p>
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/> 
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
 <img src="https://img.shields.io/badge/Discord-Chat-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
 </p>
 </div>
@@ -177,16 +177,13 @@
 
 ---
 
-
-
-
-
 ### 🎯 **Professional Highlights**
+
 - � Currently leading **enterprise digital transformation** and **AI strategy consulting**
 - 📈 Specializing in **business process optimization** and **technology risk management**
 - 🤝 Seeking partnerships in **strategic technology initiatives** and **innovation projects**
 - � Expertise in **digital strategy**, **system architecture**, **AI implementation**, and **cybersecurity frameworks**
-- � Professional contact: **souvikg9474@gmail.com**
+- � Professional contact: **[souvikg9474@gmail.com](mailto:souvikg9474@gmail.com)**
 - 🏆 Achievement: **Infosys Global Hackathon Finalist** - recognized for innovative technology solutions
 - ⚖️ Professional interests: Strategic planning, team leadership, and driving technological innovation
 
@@ -216,3 +213,4 @@
 <br>
 ### ⭐ **Star this repository if you find it helpful!** ⭐
 </div>
+
