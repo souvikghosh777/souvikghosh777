@@ -98,16 +98,20 @@
 
 <div align="center">
 
-<img width="49%" height="155px" src="https://github-readme-stats.vercel.app/api?username=souvikghosh777&show_icons=true&count_private=true&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&bg_color=0d1117" alt="Souvik's GitHub Stats" />
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=souvikghosh777&show_icons=true&count_private=true&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800" alt="Souvik's GitHub Stats" />
 
-<img width="49%" height="155px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souvikghosh777&layout=compact&hide_border=true&title_color=00b4d8&text_color=c9d1d9&bg_color=0d1117" />
+<img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=souvikghosh777&theme=dark&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8" alt="GitHub Streak Stats" />
 
 </div>
 
+<div align="center">
+  <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souvikghosh777&layout=compact&hide_border=true&title_color=00b4d8&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800" alt="Top Languages"/>
+</div>
 
+<br>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=souvikghosh777&theme=github_dark" alt="GitHub Summary"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=souvikghosh777&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
 </div>
 
 ---
