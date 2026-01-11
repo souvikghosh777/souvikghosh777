@@ -98,8 +98,8 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=souvikghosh777&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9)](https://github.com/souvikghosh777)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=souvikghosh777&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9&langs_count=8)](https://github.com/souvikghosh777)
+[![](https://github-readme-stats.vercel.app/api?username=souvikghosh777&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9)](https://github.com/souvikghosh777)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=souvikghosh777&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9&langs_count=8)](https://github.com/souvikghosh777)
 
 </div>
 
@@ -107,7 +107,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=souvikghosh777&theme=react&hide_border=true&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8)](https://github.com/souvikghosh777)
+[![](https://streak-stats.demolab.com/?user=souvikghosh777&theme=react&hide_border=true&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8)](https://github.com/souvikghosh777)
 
 </div>
 
