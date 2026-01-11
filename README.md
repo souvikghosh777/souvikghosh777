@@ -99,10 +99,10 @@
 <div align="center">
 
 <a href="https://github.com/souvikghosh777">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=souvikghosh777&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=souvikghosh777&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&cache_seconds=86400"/>
 </a>
 <a href="https://github.com/souvikghosh777">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=souvikghosh777&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9&langs_count=8"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souvikghosh777&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9&langs_count=8&cache_seconds=86400"/>
 </a>
 
 </div>
@@ -111,9 +111,8 @@
 
 <div align="center">
 
-### 🔥 **GitHub Streak Stats**
 <a href="https://github.com/souvikghosh777">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=souvikghosh777&theme=react&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&sideLabels=00b4d8&stroke=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e"/>
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=souvikghosh777&theme=react&hide_border=true&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8&sideLabels=00B4D8&stroke=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak Stats"/>
 </a>
 
 </div>
