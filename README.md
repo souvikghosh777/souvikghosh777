@@ -111,7 +111,24 @@
 
 </div>
 
-<br>
+<div align="center">
+  
+### 💫 **Support My Journey**
+  
+<p><em>If you find my work valuable, consider giving it a ⭐ star! Every star motivates me to create more innovative projects and share knowledge with the community.</em></p>
+
+<p>
+<a href="https://github.com/souvikghosh777?tab=followers">
+  <img src="https://img.shields.io/badge/Follow_Me-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow"/>
+</a>
+<a href="https://github.com/souvikghosh777?tab=repositories">
+  <img src="https://img.shields.io/badge/Star_My-Repositories-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Star"/>
+</a>
+</p>
+
+<p><strong>🚀 Let's grow together in this amazing tech journey!</strong></p>
+
+</div>
 
 <br>
 
