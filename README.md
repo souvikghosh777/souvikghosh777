@@ -124,6 +124,24 @@
 
 ---
 
+## 📝 **Visitor's Guestbook**
+
+<div align="center">
+
+### ✍️ **Sign My Guestbook!**
+
+<p>Leave a message and let me know you stopped by! 👋</p>
+
+[![Guestbook](https://img.shields.io/badge/Sign_My-Guestbook-00b4d8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/souvikghosh777/souvikghosh777/issues/new?title=Hi%20Souvik!&body=Leave%20your%20message%20here%20%F0%9F%91%8B)
+
+### 📊 **Recent Visitors**
+
+<img src="https://visitcount.itsvg.in/api?id=souvikghosh777&label=Profile%20Views&color=0&icon=5&pretty=true" alt="Profile Views"/>
+
+</div>
+
+---
+
 ## 🤝 **Connect with Me**
 
 <div align="center">
