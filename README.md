@@ -111,22 +111,55 @@
 
 </div>
 
+<br>
+
 <div align="center">
-  
-### 💫 **Support My Journey**
-  
-<p><em>If you find my work valuable, consider giving it a ⭐ star! Every star motivates me to create more innovative projects and share knowledge with the community.</em></p>
+
+---
+
+### 💫 **Join Me on This Coding Adventure!**
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
+
+<p><em>🌟 Every line of code tells a story, every project solves a problem, and every star fuels innovation!</em></p>
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.icons8.com/fluency/48/star.png" width="40"/>
+<br><strong>Star Repos</strong>
+<br><sub>Show appreciation for my work</sub>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/fluency/48/github.png" width="40"/>
+<br><strong>Follow Journey</strong>
+<br><sub>Stay updated with new projects</sub>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/fluency/48/code.png" width="40"/>
+<br><strong>Collaborate</strong>
+<br><sub>Build something amazing together</sub>
+</td>
+</tr>
+</table>
+
+<br>
 
 <p>
 <a href="https://github.com/souvikghosh777?tab=followers">
-  <img src="https://img.shields.io/badge/Follow_Me-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow"/>
+  <img src="https://img.shields.io/badge/👤_Follow-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow"/>
 </a>
 <a href="https://github.com/souvikghosh777?tab=repositories">
-  <img src="https://img.shields.io/badge/Star_My-Repositories-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Star"/>
+  <img src="https://img.shields.io/badge/⭐_Star-Repositories-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Star"/>
+</a>
+<a href="https://github.com/souvikghosh777?tab=repositories">
+  <img src="https://img.shields.io/badge/🔔_Watch-Updates-00B4D8?style=for-the-badge&logo=github&logoColor=white" alt="Watch"/>
 </a>
 </p>
 
-<p><strong>🚀 Let's grow together in this amazing tech journey!</strong></p>
+<p><strong>🚀 "Code with passion, innovate with purpose, and inspire through technology!"</strong></p>
+
+---
 
 </div>
 
