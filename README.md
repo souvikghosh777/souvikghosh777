@@ -134,9 +134,19 @@
 
 [![Guestbook](https://img.shields.io/badge/Sign_My-Guestbook-00b4d8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/souvikghosh777/souvikghosh777/issues/new?title=Hi%20Souvik!&body=Leave%20your%20message%20here%20%F0%9F%91%8B)
 
-### 📊 **Recent Visitors**
+### � **Recent Visitors**
 
-<img src="https://visitcount.itsvg.in/api?id=souvikghosh777&label=Profile%20Views&color=0&icon=5&pretty=true" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=souvikghosh777&color=00b4d8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+<br><br>
+
+### 🎯 **Visitor Profiles**
+
+<a href="https://github.com/souvikghosh777">
+  <img src="https://github-readme-stats.vercel.app/api?username=souvikghosh777&show_icons=true&theme=transparent" width="0" height="0"/>
+</a>
+
+<p><em>Leave a star ⭐ on my repositories to show up here!</em></p>
 
 </div>
 
