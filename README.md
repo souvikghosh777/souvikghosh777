@@ -178,7 +178,17 @@
 
 <div align="center">
 
-### 📈 **Contribution Graph**
+### 📈 **3D Contribution Profile**
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 📊 **Contribution Activity Graph**
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=souvikghosh777&theme=react-dark&bg_color=0d1117&color=00b4d8&line=00b4d8&point=c9d1d9&area=true&hide_border=true" alt="Contribution Graph"/>
 
 </div>
