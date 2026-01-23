@@ -180,7 +180,7 @@
 
 ### 📈 **3D Contribution Profile**
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
+![](https://raw.githubusercontent.com/souvikghosh777/souvikghosh777/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
