@@ -178,9 +178,9 @@
 
 <div align="center">
 
-### � **3D Contribution Profile**
+### 📈 **GitHub Profile Summary**
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=souvikghosh777&theme=github_dark)
 
 </div>
 
@@ -188,7 +188,16 @@
 
 <div align="center">
 
-### �📊 **Contribution Activity Graph**
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=souvikghosh777&theme=github_dark&utcOffset=5.5" alt="Productive Time" width="49.5%"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=souvikghosh777&theme=github_dark" alt="Repos per Language" width="49.5%"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 📊 **Contribution Activity Graph**
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=souvikghosh777&theme=react-dark&bg_color=0d1117&color=00b4d8&line=00b4d8&point=c9d1d9&area=true&hide_border=true" alt="Contribution Graph"/>
 
 </div>
