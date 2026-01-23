@@ -10,14 +10,14 @@
 
 <div align="center">
   
-<img src="https://visitcount.itsvg.in/api?id=souvikghosh777&label=Profile%20Views&color=12&icon=5&pretty=true" />
+[![Visitor Count](https://profile-counter.glitch.me/souvikghosh777/count.svg)](https://github.com/souvikghosh777)
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsouvikghosh777&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false"/>
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsouvikghosh777&label=PROFILE%20VIEWS&labelColor=%23697689&countColor=%232ccce4&style=flat&prettyone)
 
 </div>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=souvikghosh777&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=souvikghosh777&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/souvikghosh777?label=GitHub+Followers&style=for-the-badge&color=blue&logo=github" alt="GitHub Followers"/>
   <img src="https://img.shields.io/badge/Instagram-3500+-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Followers"/>
   <img src="https://img.shields.io/github/stars/souvikghosh777?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars"/>
