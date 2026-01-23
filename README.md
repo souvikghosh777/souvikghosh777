@@ -5,8 +5,27 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Passionate+Fullstack+Developer;AI%2FML+Enthusiast;Cybersecurity+Explorer;Infosys+Global+Hackathon+Finalist;Problem+Solver+%26+Innovator" alt="Typing SVG" />
 
 ### 🚀 **Passionate Fullstack Developer from India** 🇮🇳
+
+## 👀 Visitor Profiles
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/souvikghosh777/count.svg" alt="Visitor Count"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/souvikghosh777">
+    <img src="https://visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsouvikghosh777&label=Profile%20Views&labelColor=%23697689&countColor=%232ccce4&style=flat&pretty=true" />
+  </a>
+</p>
+
+<div align="center">
+  
+### Recent Visitors
+<img src="https://github-readme-stats.vercel.app/api?username=souvikghosh777&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+
+</div>
+
 <p>
-  <img src="https://komarev.com/ghpvc/?username=souvikghosh777&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/souvikghosh777?label=GitHub+Followers&style=for-the-badge&color=blue&logo=github" alt="GitHub Followers"/>
   <img src="https://img.shields.io/badge/Instagram-3500+-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Followers"/>
   <img src="https://img.shields.io/github/stars/souvikghosh777?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars"/>
