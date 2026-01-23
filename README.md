@@ -178,34 +178,12 @@
 
 <div align="center">
 
-### 🏆 **GitHub Trophies**
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=souvikghosh777&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br>
-
-<div align="center">
-
 ### 📊 **Contribution Activity Graph**
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=souvikghosh777&theme=react-dark&bg_color=0d1117&color=00b4d8&line=00b4d8&point=c9d1d9&area=true&hide_border=true" alt="Contribution Graph"/>
 
 </div>
 
 <br>
-
-<div align="center">
-
-### 📈 **3D Contribution Calendar**
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=souvikghosh777&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8" alt="Contribution Streak" />
-
-</div>
-
----
-
-## 📝 **Visitor's Guestbook**
 
 <div align="center">
 
