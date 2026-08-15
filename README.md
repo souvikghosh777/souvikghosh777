@@ -238,13 +238,13 @@
 <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="margin: 0 15px;"/>
 </a>
 <a href="https://instagram.com/souvik7_7" target="_blank">
-<img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" style="margin: 0 15px;"/>
+<img height="50" width="50" src="https://cdn.simpleicons.org/instagram/E4405F" style="margin: 0 15px;"/>
 </a>
 <a href="https://github.com/souvikghosh777" target="_blank">
 <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="margin: 0 15px;"/>
 </a>
 <a href="https://stackoverflow.com/users/souvikghosh777" target="_blank">
-<img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" style="margin: 0 15px;"/>
+<img height="50" width="50" src="https://cdn.simpleicons.org/stackoverflow/F58025" style="margin: 0 15px;"/>
 </a>
 <a href="https://leetcode.com/souvikghosh777" target="_blank">
 <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" style="margin: 0 15px;"/>
@@ -253,7 +253,7 @@
 <img height="50" width="50" src="https://abs.twimg.com/responsive-web/client-web/icon-ios.b1fc7275.png" style="margin: 0 15px;"/>
 </a>
 <a href="mailto:souvikg9474@gmail.com" target="_blank">
-<img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" style="margin: 0 15px;"/>
+<img height="50" width="50" src="https://cdn.simpleicons.org/gmail/EA4335" style="margin: 0 15px;"/>
 </a>
 <a href="https://discord.com/users/bossrick9327" target="_blank">
 <img height="50" width="50" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" style="margin: 0 15px;"/>
